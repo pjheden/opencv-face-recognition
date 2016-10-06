@@ -1,7 +1,7 @@
 # opencv-face-recognition
 [Work in progress] Opencv software to do facial recognition
 
-How to use:
+##How to use:
 1. Create a new model
   1.1 Enter admin settings (pw: 1234)
   1.2 Choose to reset the model
@@ -12,5 +12,5 @@ How to use:
     it prints the confidence.
 
 
-Opencv api:
+##Opencv api:
 http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_api.html#
