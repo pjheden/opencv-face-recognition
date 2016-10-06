@@ -4,6 +4,8 @@
 # Ignore photoes
 ConsoleApplication1/person*/
 person*/
+*.yml
+*.xml
 
 # User-specific files
 *.suo
